@@ -1,0 +1,22 @@
+.navegacion {
+    position: fixed;
+    bottom: 2%;
+    left: 0;
+    width: 100%;
+}
+
+.boton-nav {
+    width: 40%;
+}
+
+.negrita { 
+    font-weight: bold;
+}
+
+#btn-buscar{
+    @include redondear(10px)
+}
+
+input{
+    @include redondear(15px)
+}

@@ -1,0 +1,23 @@
+.navegacion {
+  position: fixed;
+  bottom: 2%;
+  left: 0;
+  width: 100%; }
+
+.boton-nav {
+  width: 20%; }
+
+.negrita {
+  font-weight: bold; }
+
+#btn-buscar {
+  border-radius: 10px; }
+
+input {
+  border-radius: 15px; }
+
+body, html {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: url("../font/Nunito-Ligth.ttf"); }
